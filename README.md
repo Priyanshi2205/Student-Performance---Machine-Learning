@@ -61,3 +61,9 @@ Regression
 Logistic Regression 
 Decision Tree
 Random Forest
+
+
+
+Conclusion : 
+For the prediction of student performance for my dataset  SVM  is the best model .
+
